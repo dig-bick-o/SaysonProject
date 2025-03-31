@@ -1,0 +1,39 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    background-color: #A08963;
+}
+
+nav {
+    background: #706D54;
+    padding: 10px;
+}
+
+nav a {
+    color: white;
+    margin: 10px;
+    text-decoration: none;
+}
+
+.discussion-container {
+    background: #C9B194;
+    margin: 50px auto;
+    padding: 20px;
+    width: 70%;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(7, 61, 58, 0.1);
+    text-align: left;
+}
+
+.discussion-container h2 {
+    text-align: center;
+}
+
+.discussion-topic {
+    margin-bottom: 20px;
+    padding: 10px;
+    border-left: 5px solid rgb(184, 156, 121);
+    background: #ebd1b1;
+}
